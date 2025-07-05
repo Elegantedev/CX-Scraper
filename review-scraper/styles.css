@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 10px; }
+button { margin: 2px; }
+#preview { border-collapse: collapse; margin-top: 5px; }
+#preview th, #preview td { border: 1px solid #ccc; padding: 2px 4px; }
+#domain-list li { cursor: pointer; }
