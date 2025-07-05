@@ -1,0 +1,4 @@
+{
+  "extensionName": { "message": "Review Scraper" },
+  "extensionDescription": { "message": "Scrape product reviews across allowed domains." }
+}
